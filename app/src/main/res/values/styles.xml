@@ -9,6 +9,9 @@
         <item name="android:textColor">@android:color/black</item>
     </style>
 
+
+
+
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- translucent system bars -->
         <!--        <item name="android:windowTranslucentStatus">true</item>
